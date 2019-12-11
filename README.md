@@ -4,5 +4,7 @@ Research Visualization Project about which statistics best predict win percentag
 Project Contributions
 
 Jitesh - Acquiring/Parsing Data, GitHub Page
+
 Richard - Creating Visualizations, Poster
+
 Josh - Paper, Parsing Data
