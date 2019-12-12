@@ -11,6 +11,7 @@ The topic we decide to explore relates to how various statistics used to measure
 [Click here to view Visualization Poster](https://github.com/jmotati/CGT270_Final_Project/blob/master/Final%20Poster%20(1).pdf)
 
 ## Research Paper:
+[Click to view Paper](https://github.com/jmotati/CGT270_Final_Project/blob/master/Final%20Project%20Paper.pdf)
 
 ## Tableau Workbook:
 [Download Tableau Workbook for this Project](https://github.com/jmotati/CGT270_Final_Project/blob/master/Tableau%20Workbook.zip)
