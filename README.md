@@ -1,4 +1,5 @@
 # Impact of Specific Statistics on NBA Win Percentage
+By: Jitesh Motati, Josh Knull, Richard Wu
 Study on correlation between statstics used to measure performance and team win percentage in the NBA.
 
 ## Abstract
