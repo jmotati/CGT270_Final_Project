@@ -12,6 +12,8 @@ The topic we decide to explore relates to how various statistics used to measure
 
 ## Research Paper:
 
+## Tableau Workbook:
+[Download Tableau Workbook for this Project](https://github.com/jmotati/CGT270_Final_Project/blob/master/Tableau%20Workbook.zip)
 
 ## Project Contributions
 
