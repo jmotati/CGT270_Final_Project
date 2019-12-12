@@ -1,4 +1,4 @@
-# Which statstic best indicates team win percentage?
+# Which statistic best indicates team win percentage?
 
 This research project studies correlation between statstics used to measure performance and team win percentage in the NBA.
 
