@@ -1,4 +1,4 @@
-# Impact of Specific Stastics on NBA Win Percentage
+# Impact of Specific Statistics on NBA Win Percentage
 Study on correlation between statstics used to measure performance and team win percentage in the NBA.
 
 ## Abstract
